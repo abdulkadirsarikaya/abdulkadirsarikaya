@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @abdulkadirsarikaya
+- 👀 I’m interested in artificial intelligence,data engineering,data science
+- 🌱 I’m currently learning Python,Sql
+- 📫 How to reach me: abdulkadirsarikaya@outlook.com
